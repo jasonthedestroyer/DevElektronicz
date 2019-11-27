@@ -29,3 +29,19 @@ Donderdag:	09:00-19:00
 
 
 2 TALIG WEBSITE, NEDERLAND EN ENGELS.
+
+
+960px width
+100vh height
+logo went, kleiner en meer naar midden
+zoek balk fixen
+bel mij icon
+
+kleur, hover zwart. standaard groen.
+slideshow.
+
+-15px margin width: 70% balk groen 
+blok tekst. zwart wit.
+testomoniol slideshow. (bootstrap)
+
+footer hetzelfde met quotes'
