@@ -45,3 +45,8 @@ blok tekst. zwart wit.
 testomoniol slideshow. (bootstrap)
 
 footer hetzelfde met quotes'
+
+
+localhost/
+Gebruikersnaam: dev-elektronicz
+Wachtwoord: dev-elektronicz
